@@ -332,8 +332,6 @@ add_subdirectory(framework)
 
 add_subdirectory(include)
 
-add_subdirectory(3rdparty)
-
 add_subdirectory(library)
 
 add_subdirectory(pkgconfig)
